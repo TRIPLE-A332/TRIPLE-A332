@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### Just setting up here
+### Resume [here](https://github.com/TRIPLE-A332/Resume/blob/main/CV_Ali_Ahmad_Abdullah.pdf)
 <!--
 **TRIPLE-A332/TRIPLE-A332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
