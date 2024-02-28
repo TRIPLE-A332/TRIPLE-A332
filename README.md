@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Just setting up here
 ### Currently working on [Micro-Urban-Climate Prediction using AI](https://github.com/TRIPLE-A332/UrbanClimeNet) & [Hand Gesture Controlled Presentation](https://github.com/TRIPLE-A332/HandSync-Presenter)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=triple-a332&label=Profile%20views&color=0e75b6&style=flat" alt="triple-a332" /> </p>
 <!--Resume [here](https://github.com/TRIPLE-A332/Resume/blob/main/CV_Ali_Ahmad_Abdullah.pdf)
 
 <!--
