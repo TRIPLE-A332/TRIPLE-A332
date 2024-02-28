@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### Just setting up here
-### Currently working on [Micro Urban Climate Prediction and its impact on Human Health using AI](https://github.com/TRIPLE-A332/UrbanClimeNet) & [Hand Gesture Controlled Presentation](https://github.com/TRIPLE-A332/HandSync-Presenter)
-**Resume [here](https://github.com/TRIPLE-A332/Resume/blob/main/CV_Ali_Ahmad_Abdullah.pdf)**
+### Currently working on [Micro-Urban-Climate Prediction using AI](https://github.com/TRIPLE-A332/UrbanClimeNet) & [Hand Gesture Controlled Presentation](https://github.com/TRIPLE-A332/HandSync-Presenter)
+<!--Resume [here](https://github.com/TRIPLE-A332/Resume/blob/main/CV_Ali_Ahmad_Abdullah.pdf)
+
 <!--
 **TRIPLE-A332/TRIPLE-A332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
