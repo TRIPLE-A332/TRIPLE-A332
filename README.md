@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Just setting up here
 ### Currently pursuing a master's degree with a major in computer science and a minor in machine learning.
-### Resume [here](https://github.com/TRIPLE-A332/Resume/blob/main/Ali_Resume_SI.pdf).
+### Resume [here](https://github.com/TRIPLE-A332/Resume/blob/main/Ali_Resume_SI2.pdf).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triple-a332&label=Profile%20views&color=0e75b6&style=flat" alt="triple-a332" /> </p>
 <!--
 
