@@ -1,5 +1,5 @@
 
-Hi there 👋<br>Just setting up here<br>Currently pursuing a master's degree with a major in computer science and a minor in machine learning.<br>Resume [here]([https://github.com/TRIPLE-A332/Resume/blob/main/Ali_Resume_SI2.pdf](https://drive.google.com/file/d/1eY2kSphffkXR-BkQ5ifj_YAAWevl5pBc/view)).
+Hi there 👋<br>Just setting up here<br>Currently pursuing a master's degree with a major in computer science and a minor in machine learning.<br>Resume [here]([https://drive.google.com/file/d/1eY2kSphffkXR-BkQ5ifj_YAAWevl5pBc/view])
 
 
 ## Connect?
